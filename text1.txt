@@ -1,3 +1,5 @@
 This is a test of my git skills.
 
 This is only a test.
+
+This line was added later.
